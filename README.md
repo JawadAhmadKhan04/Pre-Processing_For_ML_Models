@@ -32,7 +32,8 @@ activate.bat is for windows
 To get started, you'll need to install the required libraries.
 
 You can do this using `pip` by running the following command:
+Pandas and Numpy are used for Data Anlysis, while Matplotlib and Seaborn are used for Data Visualization
 
 ```sh
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install pandas numpy matplotlib seaborn jupyter
 ```
