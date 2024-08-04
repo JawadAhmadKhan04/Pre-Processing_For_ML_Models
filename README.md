@@ -4,7 +4,19 @@ This project utilizes popular Python libraries for data analysis and machine lea
 
 ## Installation
 
-To get started, you'll need to install the required libraries. You can do this using `pip` by running the following command:
+To get started, you'll need to install the required libraries.
+
+Its better to use a virtual environment
+
+### Installing a virtual environment
+
+To install a virtual environment run the following command:
+
+```sh
+pip install virtual venv
+
+
+You can do this using `pip` by running the following command:
 
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
