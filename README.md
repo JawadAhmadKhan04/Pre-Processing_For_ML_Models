@@ -4,9 +4,7 @@ This project utilizes popular Python libraries for data analysis and machine lea
 
 ## Installation
 
-To get started, you'll need to install the required libraries.
-
-Its better to use a virtual environment
+Its better to use a virtual environment for project dependencies, maintaining isolated and clean workspaces, and ensuring reproducibility and flexibility in Python development. 
 
 ### Installing a virtual environment
 
@@ -28,11 +26,10 @@ name_of_virtual_env\Scipts\activate.bat
 ```
 activate.bat is for windows
 
-To get out of the virtual environment, run the following command:
-```sh
-deactivate
-```
 
+### Installing Libraries
+
+To get started, you'll need to install the required libraries.
 
 You can do this using `pip` by running the following command:
 
